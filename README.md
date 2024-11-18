@@ -14,7 +14,7 @@ The AsciiAce bot transforms normal text into ASCII art! Available on Discord and
 -  Fast and reliable responses.
 
 ### For discord
-
+![bot discord tutorial](https://github.com/CoderRony955/AsciiAce/blob/master/usecase/bot%20usecase%20discord.gif)
 - prefix for Discord is `+` but you can also use bot slash commands :)
 
 **Ex:**
@@ -27,7 +27,7 @@ The AsciiAce bot transforms normal text into ASCII art! Available on Discord and
 | `/speed`           | speed text | 
 
 ### For telegram
-
+![bot telegram tutorial](https://github.com/CoderRony955/AsciiAce/blob/master/usecase/bot%20telegram%20usecase.gif)
 - use default `/` slash command :)
 
 **Ex:**
