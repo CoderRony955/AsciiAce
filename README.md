@@ -43,7 +43,7 @@ Contributions are welcome! Submit a pull request or report an issue to help impr
 
 ## License
 
-This project is licensed under the  [MIT LICENSE]().
+This project is licensed under the  [MIT LICENSE](https://github.com/CoderRony955/AsciiAce/blob/master/LICENSE).
 
 ## Thanks for visiting 
 Thanks for visiting on this repository :)
