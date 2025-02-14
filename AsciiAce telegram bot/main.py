@@ -18,7 +18,7 @@ from all_funcs import (
     banner,
     echo)
 
-
+#-------------------------------------------------------------------
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     await update.message.reply_text(
         "Hey there! I'm, ASCIIACE. Bot which converts text to ASCII art. So what are you waiting for? let's create ASCII art!")
