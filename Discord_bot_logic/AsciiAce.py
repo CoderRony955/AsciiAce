@@ -633,6 +633,6 @@ async def on_command_error(ctx, error):
         await ctx.send(embed=embed)
 
 
-# Start the bot with your token
+# Start the bot with your token -------------------------------------------
 bot.run("BOT_TOKEN")
 
