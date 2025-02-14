@@ -634,5 +634,5 @@ async def on_command_error(ctx, error):
 
 
 # Start the bot with your token
-bot.run("MTMwMDMxNTEzMjg3MzgwMTcyOA.GS4k7T.kjdV8Nr8bjpjuCK6Vz7rTqVOLFeJQEb2VpvqvY")
+bot.run("BOT_TOKEN")
 
